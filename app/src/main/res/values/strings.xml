@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TarasoffRemake</string>
+    <string name="title_home">Главная</string>
+    <string name="title_transfers">Переводы</string>
+    <string name="title_profile">Профиль</string>
+</resources>
