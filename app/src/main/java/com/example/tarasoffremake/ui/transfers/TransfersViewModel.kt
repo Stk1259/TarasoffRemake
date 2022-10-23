@@ -1,4 +1,4 @@
-package com.example.tarasoffremake.ui.dashboard
+package com.example.tarasoffremake.ui.transfers
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

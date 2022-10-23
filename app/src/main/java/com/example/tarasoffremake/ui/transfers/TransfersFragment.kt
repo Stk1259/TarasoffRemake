@@ -1,4 +1,4 @@
-package com.example.tarasoffremake.ui.dashboard
+package com.example.tarasoffremake.ui.transfers
 
 import android.os.Bundle
 import android.view.LayoutInflater
