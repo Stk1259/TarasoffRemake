@@ -1,4 +1,4 @@
-package com.example.tarasoffremake.ui.profile
+package com.example.tarasoffremake.ui.notifications
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
