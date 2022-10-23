@@ -1,4 +1,4 @@
-package com.example.tarasoffremake.ui.notifications
+package com.example.tarasoffremake.ui.profile
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -27,7 +27,7 @@ private var _binding: FragmentProfileBinding? = null
     _binding = FragmentProfileBinding.inflate(inflater, container, false)
     val root: View = binding.root
 
-    val textView: TextView = binding.textNotifications
+    val textView: TextView = binding.textProfile
     notificationsViewModel.text.observe(viewLifecycleOwner) {
       textView.text = it
     }
