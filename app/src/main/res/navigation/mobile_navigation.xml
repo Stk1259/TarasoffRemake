@@ -13,13 +13,13 @@
 
     <fragment
         android:id="@+id/navigation_transfers"
-        android:name="com.example.tarasoffremake.ui.dashboard.TransfersFragment"
+        android:name="com.example.tarasoffremake.ui.transfers.TransfersFragment"
         android:label="@string/title_transfers"
         tools:layout="@layout/fragment_transfers" />
 
     <fragment
         android:id="@+id/navigation_profile"
-        android:name="com.example.tarasoffremake.ui.notifications.ProfileFragment"
+        android:name="com.example.tarasoffremake.ui.profile.ProfileFragment"
         android:label="@string/title_profile"
         tools:layout="@layout/fragment_profile" />
 </navigation>
