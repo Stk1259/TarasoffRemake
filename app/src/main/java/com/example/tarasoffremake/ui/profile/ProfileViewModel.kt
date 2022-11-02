@@ -1,5 +1,6 @@
 package com.example.tarasoffremake.ui.profile
 
+import android.widget.RelativeLayout
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
@@ -10,4 +11,5 @@ class ProfileViewModel : ViewModel() {
         value = "This is profile Fragment"
     }
     val text: LiveData<String> = _text
+
 }
